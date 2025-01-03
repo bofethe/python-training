@@ -1,0 +1,5 @@
+2025-01-03 12:37:39,972 - __main__ - DEBUG - Debugging details
+2025-01-03 12:37:39,972 - __main__ - INFO - App started successfully
+2025-01-03 12:37:39,972 - __main__ - WARNING - API response delayed
+2025-01-03 12:37:39,972 - __main__ - ERROR - Database connection failed
+2025-01-03 12:37:39,972 - __main__ - CRITICAL - System is shutting down!
