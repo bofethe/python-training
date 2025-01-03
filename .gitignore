@@ -142,4 +142,4 @@ cython_debug/
 
 # database stuff
 *.db
-*.gdb
+*.gdb/
