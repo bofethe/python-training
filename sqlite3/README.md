@@ -1,0 +1,5 @@
+# SQLite3
+
+SQLite is a widely used, open-source relational database management system (RDBMS) that is known for its simplicity, portability, and efficiency. Unlike other database systems that rely on a separate server process, SQLite is embedded directly into applications, meaning that the entire database engine is contained within a single library, allowing for easy integration into programs. SQLite is particularly popular in environments where a full-scale database might be unnecessary, such as small to medium-sized applications, local storage in web browsers, or for development and testing purposes. For more information on SQLite, visit the website [here](https://www.sqlite.org).
+
+This tutorial focuses on how to use SQLite3 in python using the `sqlite3` library included as a [standard python library](https://docs.python.org/3/library/sqlite3.html).
